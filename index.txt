@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Vanshika Jain
+Vanshika Jain
+Senior Software Engineer
 
 Show Contacts
 
 Email
-richard@example.com
+vanshikajain622@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9352114502
 
 Birthday
 June 23, 1982
 
 Location
-Sacramento, California, USA
+Jaipur, Rajasthan, India
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in Cloud Developer and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created Software Development for many famous brand companies.
 
 
 ## service
@@ -42,19 +42,19 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+Software Development
 The most modern and high-quality design made at a professional level.
 
-alt = Web development icon
-Web development
+alt = Cloud Developer icon
+Cloud Developer
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
-Mobile apps
+DevOps
 Professional development of applications for iOS and Android.
 
 alt = camera icon
-Photography
+Training & Mentoring
 I make high-quality photos of any category at a professional level.
 
 
@@ -115,13 +115,13 @@ Art director
 2013 — 2015
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-Web designer
+Software Developmenter
 2010 — 2013
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
 
-Web design
+Software Development
 80%
 Graphic design
 70%
@@ -137,27 +137,27 @@ WordPress
 Portfolio
 
 All
-Web design
+Software Development
 Applications
-Web development
+Cloud Developer
 
 Select category
 All
-Web design
+Software Development
 Applications
-Web development
+Cloud Developer
 
 alt = finance
 Finance
-Web development
+Cloud Developer
 
 alt = orizon
 Orizon
-Web development
+Cloud Developer
 
 alt = fundo
 Fundo
-Web design
+Software Development
 
 alt = brawlhalla
 Brawlhalla
@@ -165,15 +165,15 @@ Applications
 
 alt = dsm.
 DSM.
-Web design
+Software Development
 
 alt = metaspark
 MetaSpark
-Web design
+Software Development
 
 alt = summary
 Summary
-Web development
+Cloud Developer
 
 alt = task manager
 Task Manager
@@ -181,7 +181,7 @@ Applications
 
 alt = arrival
 Arrival
-Web development
+Cloud Developer
 
 
 
